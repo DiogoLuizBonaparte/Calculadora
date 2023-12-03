@@ -1,0 +1,15 @@
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\bin\Debug\net6.0\Curso 4 projetos.exe
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\bin\Debug\net6.0\Curso 4 projetos.deps.json
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\bin\Debug\net6.0\Curso 4 projetos.runtimeconfig.json
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\bin\Debug\net6.0\Curso 4 projetos.dll
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\bin\Debug\net6.0\Curso 4 projetos.pdb
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.csproj.AssemblyReference.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.AssemblyInfoInputs.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.AssemblyInfo.cs
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.csproj.CoreCompileInputs.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.dll
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\refint\Curso 4 projetos.dll
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.pdb
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\Curso 4 projetos.genruntimeconfig.cache
+C:\Users\diogo.monteiro\Desktop\Cyber\PROGRAMAÇÃO\C#\Curso 4 projetos\Curso 4 projetos\obj\Debug\net6.0\ref\Curso 4 projetos.dll
